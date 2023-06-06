@@ -1,2 +1,2 @@
 # python_exercises
-yandex practicum
+Задания из Яндекс Академии - https://academy.yandex.ru/handbook/python
